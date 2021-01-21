@@ -5,12 +5,13 @@ For the algorithm of the edge selection ( https://en.wikipedia.org/wiki/Ant_colo
 
 p_ij = tau_ij / sum_allowed_ij tau_ij .
 
-## Compilation
+## Compilation and Execution
 
-Simply copy all files to one folder and compile with:
+Copy all files to the same folder. Then compile and execute project with:
 
 ```
-g++ *.cpp -o aco
+make all
+./aco
 ```
 
 ## Included files:
