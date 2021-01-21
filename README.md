@@ -20,3 +20,4 @@ make all
 * aco.cpp/h:      Contains ACO class.
 * ant.cpp/h:      Contains ant class.
 * distances.txt:  Example file with distance matrix.
+* makefile:       Makefile to build project.
