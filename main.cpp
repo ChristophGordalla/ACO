@@ -1,8 +1,7 @@
 // main.cpp
 
-/* Compile project with e.g.
- * 
- * g++ -Wall *.cpp -o aco
+/* Compile project with 'make all'.
+ * Run project with './aco'.
  * */
 
 #include <iostream>
